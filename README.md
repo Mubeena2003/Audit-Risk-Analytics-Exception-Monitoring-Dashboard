@@ -1,4 +1,4 @@
-# Audit Risk Analytics & Exception Monitoring Dashboard
+<img width="1536" height="1024" alt="ChatGPT Image Aug 18, 2026, 03_30_56 PM" src="https://github.com/user-attachments/assets/a54abc1c-9a8e-4074-a52c-7e9d1be18436" /><img width="1536" height="1024" alt="ChatGPT Image Aug 18, 2026, 03_30_56 PM" src="https://github.com/user-attachments/assets/545830a4-cd45-4c42-b6d5-808b2c9340db" /># Audit Risk Analytics & Exception Monitoring Dashboard
 
 ## 📌 Project Overview
 
