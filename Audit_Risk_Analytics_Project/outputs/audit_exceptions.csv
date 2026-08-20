@@ -1,0 +1,78 @@
+transaction_id,transaction_date,vendor_id,department,payment_method,amount,approved,high_value_flag,approval_exception_flag,duplicate_flag,risk_score,risk_level
+TXN00011,2025-01-04 15:26:50.810810810,Vendor_088,Finance,Cheque,250000.0,Yes,True,False,False,3,High
+TXN00021,2025-01-08 06:53:41.621621621,Vendor_002,HR,Cheque,175000.0,Yes,True,False,False,3,High
+TXN00984,2025-12-25 04:05:02.702702704,Vendor_039,IT,Card,32474.39,No,False,True,False,3,High
+TXN00705,2025-09-14 12:18:01.081081080,Vendor_039,Finance,Card,14489.11,No,False,True,False,3,High
+TXN00663,2025-08-30 05:01:15.675675676,Vendor_046,Sales,Bank Transfer,12625.56,No,False,True,False,3,High
+TXN00627,2025-08-17 02:12:36.756756756,Vendor_028,HR,Bank Transfer,10555.82,No,False,True,False,3,High
+TXN00874,2025-11-15 02:09:43.783783784,Vendor_098,Procurement,Bank Transfer,10202.07,No,False,True,False,3,High
+TXN00956,2025-12-14 23:13:52.432432432,Vendor_099,Finance,Card,9460.74,No,False,True,False,3,High
+TXN00485,2025-06-26 08:27:23.243243244,Vendor_001,Procurement,Bank Transfer,8853.13,No,False,True,False,3,High
+TXN00309,2025-04-23 05:22:52.972972974,Vendor_072,HR,Bank Transfer,8205.55,No,False,True,False,3,High
+TXN00490,2025-06-28 04:10:48.648648650,Vendor_048,IT,Cheque,8031.74,No,False,True,False,3,High
+TXN00817,2025-10-25 07:42:42.162162164,Vendor_053,Procurement,Cheque,7860.1,No,False,True,False,3,High
+TXN00082,2025-01-30 12:19:27.567567567,Vendor_044,Finance,Card,7470.79,No,False,True,False,3,High
+TXN00188,2025-03-10 03:16:02.162162162,Vendor_075,Operations,Card,7106.65,No,False,True,False,3,High
+TXN00212,2025-03-18 21:08:28.108108108,Vendor_088,HR,Card,6639.8,No,False,True,False,3,High
+TXN00220,2025-03-21 19:05:56.756756757,Vendor_003,Operations,Cheque,6388.79,No,False,True,False,3,High
+TXN00075,2025-01-27 23:06:40.000000000,Vendor_054,IT,Bank Transfer,6041.98,No,False,True,False,3,High
+TXN00176,2025-03-05 18:19:49.189189189,Vendor_066,IT,Bank Transfer,5871.92,No,False,True,False,3,High
+TXN00477,2025-06-23 10:29:54.594594596,Vendor_058,Procurement,Cheque,5788.22,No,False,True,False,3,High
+TXN00694,2025-09-10 12:06:29.189189188,Vendor_019,Procurement,Card,5611.09,No,False,True,False,3,High
+TXN00584,2025-08-01 10:11:10.270270272,Vendor_029,Operations,Bank Transfer,5584.13,No,False,True,False,3,High
+TXN00224,2025-03-23 06:04:41.081081081,Vendor_002,HR,Bank Transfer,5397.56,No,False,True,False,3,High
+TXN00293,2025-04-17 09:27:55.675675676,Vendor_012,Procurement,Bank Transfer,5253.09,No,False,True,False,3,High
+TXN00570,2025-07-27 07:45:35.135135136,Vendor_035,Finance,Card,4967.71,No,False,True,False,3,High
+TXN00814,2025-10-24 05:28:38.918918920,Vendor_095,Procurement,Card,4883.44,No,False,True,False,3,High
+TXN00183,2025-03-08 07:32:36.756756757,Vendor_028,HR,Cheque,4493.94,No,False,True,False,3,High
+TXN00495,2025-06-29 23:54:14.054054054,Vendor_064,IT,Card,4363.75,No,False,True,False,3,High
+TXN00018,2025-01-07 04:39:38.378378378,Vendor_088,Procurement,Cheque,3999.37,No,False,True,False,3,High
+TXN00733,2025-09-24 17:09:11.351351352,Vendor_018,HR,Bank Transfer,3936.87,No,False,True,False,3,High
+TXN00296,2025-04-18 11:41:58.918918920,Vendor_032,Sales,Bank Transfer,3750.71,No,False,True,False,3,High
+TXN00908,2025-11-27 11:29:00.540540540,Vendor_004,Operations,Bank Transfer,3680.45,No,False,True,False,3,High
+TXN00766,2025-10-06 17:43:47.027027028,Vendor_064,Operations,Bank Transfer,3641.53,No,False,True,False,3,High
+TXN00257,2025-04-04 06:39:16.756756757,Vendor_080,Finance,Cheque,3535.31,No,False,True,False,3,High
+TXN00287,2025-04-15 04:59:49.189189189,Vendor_016,Operations,Cheque,3411.56,No,False,True,False,3,High
+TXN00307,2025-04-22 11:53:30.810810812,Vendor_024,Sales,Cheque,3387.63,No,False,True,False,3,High
+TXN00512,2025-07-06 04:33:52.432432432,Vendor_094,IT,Bank Transfer,3375.01,No,False,True,False,3,High
+TXN00506,2025-07-04 00:05:45.945945946,Vendor_057,Procurement,Card,3367.36,No,False,True,False,3,High
+TXN00225,2025-03-23 14:49:22.162162162,Vendor_002,Finance,Bank Transfer,3166.39,No,False,True,False,3,High
+TXN00354,2025-05-09 14:53:41.621621622,Vendor_097,Finance,Card,2996.31,No,False,True,False,3,High
+TXN00264,2025-04-06 19:52:04.324324325,Vendor_090,Sales,Cheque,2839.75,No,False,True,False,3,High
+TXN00634,2025-08-19 15:25:24.324324324,Vendor_099,HR,Cheque,2805.23,No,False,True,False,3,High
+TXN00283,2025-04-13 18:01:04.864864865,Vendor_094,HR,Card,2683.81,No,False,True,False,3,High
+TXN00219,2025-03-21 10:21:15.675675676,Vendor_002,Operations,Bank Transfer,2670.55,No,False,True,False,3,High
+TXN00430,2025-06-06 07:29:43.783783784,Vendor_087,Operations,Card,2641.18,No,False,True,False,3,High
+TXN00711,2025-09-16 16:46:07.567567568,Vendor_063,HR,Card,2562.41,No,False,True,False,3,High
+TXN00582,2025-07-31 16:41:48.108108108,Vendor_058,Operations,Bank Transfer,2558.5,No,False,True,False,3,High
+TXN00939,2025-12-08 18:34:14.054054056,Vendor_090,Procurement,Bank Transfer,2478.25,No,False,True,False,3,High
+TXN00586,2025-08-02 03:40:32.432432432,Vendor_089,Sales,Bank Transfer,2415.56,No,False,True,False,3,High
+TXN00479,2025-06-24 03:59:16.756756758,Vendor_090,IT,Cheque,2412.43,No,False,True,False,3,High
+TXN00390,2025-05-22 17:42:20.540540540,Vendor_025,Procurement,Bank Transfer,2371.31,No,False,True,False,3,High
+TXN00619,2025-08-14 04:15:08.108108108,Vendor_049,Sales,Bank Transfer,2208.0,No,False,True,False,3,High
+TXN00701,2025-09-13 01:19:16.756756756,Vendor_020,Procurement,Bank Transfer,2152.47,No,False,True,False,3,High
+TXN00417,2025-06-01 13:48:49.729729730,Vendor_024,Sales,Cheque,1850.98,No,False,True,False,3,High
+TXN00751,2025-10-01 06:33:30.810810812,Vendor_076,IT,Card,1848.25,No,False,True,False,3,High
+TXN00235,2025-03-27 06:16:12.972972973,Vendor_044,Sales,Bank Transfer,1811.45,No,False,True,False,3,High
+TXN00503,2025-07-02 21:51:42.702702704,Vendor_016,Procurement,Card,1709.97,No,False,True,False,3,High
+TXN00041,2025-01-15 13:47:23.243243243,Vendor_062,Sales,Bank Transfer,1656.28,No,False,True,False,3,High
+TXN00848,2025-11-05 14:47:55.675675676,Vendor_054,Procurement,Cheque,1624.9,No,False,True,False,3,High
+TXN00145,2025-02-22 11:14:35.675675676,Vendor_078,Finance,Cheque,1446.7,No,False,True,False,3,High
+TXN00737,2025-09-26 04:07:55.675675676,Vendor_015,Procurement,Card,1249.13,No,False,True,False,3,High
+TXN00831,2025-10-30 10:08:17.297297300,Vendor_077,IT,Cheque,1220.21,No,False,True,False,3,High
+TXN00556,2025-07-22 05:20:00.000000000,Vendor_012,Finance,Cheque,1198.63,No,False,True,False,3,High
+TXN00371,2025-05-15 19:33:20.000000000,Vendor_046,IT,Bank Transfer,1146.95,No,False,True,False,3,High
+TXN00617,2025-08-13 10:45:45.945945948,Vendor_059,Procurement,Bank Transfer,1087.75,No,False,True,False,3,High
+TXN00666,2025-08-31 07:15:18.918918920,Vendor_042,HR,Bank Transfer,1059.32,No,False,True,False,3,High
+TXN00840,2025-11-02 16:50:27.027027028,Vendor_039,IT,Cheque,1031.9,No,False,True,False,3,High
+TXN00816,2025-10-24 22:58:01.081081080,Vendor_003,Sales,Card,999.48,No,False,True,False,3,High
+TXN00887,2025-11-19 19:50:37.837837840,Vendor_056,Operations,Bank Transfer,875.78,No,False,True,False,3,High
+TXN00031,2025-01-11 22:20:32.432432432,Vendor_091,IT,Card,854.03,No,False,True,False,3,High
+TXN00467,2025-06-19 19:03:03.783783784,Vendor_040,IT,Cheque,655.31,No,False,True,False,3,High
+TXN00952,2025-12-13 12:15:08.108108108,Vendor_026,Sales,Cheque,641.79,No,False,True,False,3,High
+TXN00695,2025-09-10 20:51:10.270270272,Vendor_039,IT,Bank Transfer,616.41,No,False,True,False,3,High
+TXN00389,2025-05-22 08:57:39.459459460,Vendor_018,Sales,Card,393.77,No,False,True,False,3,High
+TXN00101,2025-02-06 10:28:28.108108108,Vendor_026,Operations,Card,15522.1,Yes,False,False,True,2,Medium
+TXN_DUP_001,2025-02-06 10:28:28.108108108,Vendor_026,Operations,Card,15522.1,Yes,False,False,True,2,Medium
+TXN00102,2025-02-06 19:13:09.189189189,Vendor_089,Finance,Cheque,1268.99,Yes,False,False,True,2,Medium
+TXN_DUP_002,2025-02-06 19:13:09.189189189,Vendor_089,Finance,Cheque,1268.99,Yes,False,False,True,2,Medium
